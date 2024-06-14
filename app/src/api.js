@@ -1,5 +1,5 @@
 const API_URL = 'https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent';
-const API_KEY = 'AIzaSyCL6elvZ52diTQeZAtZLbhzAxFgAm6G6do'; // Replace with your actual API key
+const API_KEY = ''; // Replace with your actual API key
 
 export async function callGeminiAPI(userInput, pageContent, currentStep) {
     try {
