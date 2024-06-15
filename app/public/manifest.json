@@ -2,7 +2,7 @@
   "manifest_version": 3,
   "name": "Personal Pizza Assistant",
   "version": "1.0",
-  "description": "Your personal pizza ordering assistant",
+  "description": "Personal Pizza Assistant is your ultimate companion for quick and effortless pizza ordering. It takes your spoken pizza order and updates the cart automatically on Domino's website. Perfect for people on the go and for those with accessibility needs.",
   "permissions": [
     "activeTab",
     "scripting",
